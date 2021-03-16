@@ -1,0 +1,10 @@
+Design Patterns
+
+	1. Observer Pattern
+	2. Decorator Pattern
+	3. Factory Pattern
+	4. Singleton Pattern
+	5. Command Pattern
+	6. Memento Pattern
+	7. State Pattern
+	8. Strategy Pattern 

@@ -7,4 +7,5 @@ Design Patterns
 	5. Command Pattern
 	6. Memento Pattern
 	7. State Pattern
-	8. Strategy Pattern 
+	8. Strategy Pattern
+	9. Proxy Pattern 
